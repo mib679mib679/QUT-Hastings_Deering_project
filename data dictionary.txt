@@ -1,0 +1,22 @@
+Processing_time(days): Invoice_Date - Created_Date
+
+Distance_to_Toowoomba(km): shortest google distance from Toowoomba to the location of the postcode, measurement is km.
+
+Monthly_rainfall(mm): source from bureau of meteorology, station: Toowoomba airport , measurement is mm.
+
+Highest_daily_rainfall: source from bureau of meteorology, station: Toowoomba airport, measurement is mm.
+
+Highest_daily_temprature(C): source from bureau of meteorology, station: Toowoomba airport, measurement is celsius degree.
+
+Number_building_approvals(private_sector): Monthly number of building approvals(private sector) in Toowoomba region, 
+Building Approvals by Statistical Area (SA2) and above, source from Australian bureau of statistics, 
+measurement is number of dwelling units.
+
+Value_building_jobs(private_sector_AUD_thousands): Monthly value of building jobs(private sector) in Toowoomba region, 
+source from Australian bureau of statistics, measurement is thousand AUD.
+
+Producer_price_index(brisbane): Quarterly PPI of input to the house construction industry in Brisbane, 
+source from Australian bureau of statistics.
+
+Monthly_Covid_cases_Toowoomba: Monthly Covid-19 cases in Toowoomba region, source from QLD government open data portal.
+
