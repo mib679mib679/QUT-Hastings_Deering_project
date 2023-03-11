@@ -1,1 +1,1 @@
-# QUT_and_Hastings_Deering_project
+# QUT and Hastings Deering project
