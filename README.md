@@ -1,6 +1,7 @@
 # QUT and Hastings Deering project
 
-##### Note: N11096837-Final Report.pdf - The report itself.
+##### Note: 
+#####       N11096837-Final Report.pdf - The report itself.
 #####       correlation.ipynb - A file contains code for correlation test.
 #####       data dictionary.txt - Data dictionary.
 #####       decision_tree.ipynb - This file contains code for a classification model(decision tree).
