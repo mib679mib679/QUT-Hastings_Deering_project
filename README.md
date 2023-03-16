@@ -1,6 +1,6 @@
 # QUT and Hastings Deering project
 
-### Note:
+##### Note:
 
 This project was made in IFN703-Advanced Project, which is a unit in the 3rd semester. This is also my first practical project. A construction equipment dealership Hastings Deering provided us a piece of data, and asked us if we can add any external factors such as weather, social economic factor etc. to the data and analyse it, as long as the factor can be related to the data itself. This piece of data belongs to HD's Toowoomba warehouse, it's actually a series of repair transactions of their contractors. In another words, construction contractors buy machines from HD, and left records when they do maintenance and parts replacement in HD's warehouse. The data has 35146 rows and 12 columns including unique identifier, invoice date, postcode, customer market segment, product etc. The timespan of the data is from Dec 2019 to Dec 2021, which overlaped the main period of COVID-19 pandemic. According to the agreement between QUT and HD, I cannot upload the data to this platform.
 
